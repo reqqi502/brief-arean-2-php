@@ -1,0 +1,58 @@
+ /* footer */
+ #iconeaws i {
+    margin: 0px 25px 0px 20px;
+  }
+  
+  
+  .icos b{
+    position: relative;
+      left: 5px;
+    bottom: 8px;
+    color: #fff;
+  }
+  .icos{
+    margin-bottom: 20px;
+  }
+  .esp{
+    margin-left: 45px;
+  }
+  
+  
+  
+  
+  
+  footer{
+  
+        background-color: black;
+        width:100%;
+        margin-top: 137px;
+  }
+  
+  footer h1{
+      font-size: 26px;
+      margin-bottom: 27px;
+      color: #688095;
+      font-weight: 900;
+      margin-top:59px;
+  }
+  
+  footer .same_footer ul{
+      list-style: none;
+  }
+  
+  .last_foo dir{
+      color: white;
+  
+  }
+  
+  .last_foo{
+    margin-top: -25px;
+    text-align: center;
+  
+  
+  }
+  
+  .last {
+     color: #fff;
+     margin-left: 11%;
+  }
