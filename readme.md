@@ -12,6 +12,6 @@
 
     5- Login:
 
-        -Username : akram.rq.12@gmail.com
+        -Username : akram.rq.12
         
         -Password : 0000
